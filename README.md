@@ -2,17 +2,6 @@
 
 ## 数组&链表
 
-### Array
-- Access: O(1)
-- Insert: O(n)
-- Delete: O(n)
-
-### LinkedList
-- Access: O(n)
-- Insert: O(1)
-- Delete: O(1)
-
-### 习题
 [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 [代码](src/com/gujie1996/linkedlist/ReverseLinkedList.java)
 
@@ -22,8 +11,10 @@
 [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 [代码](src/com/gujie1996/linkedlist/LinkedListCycle.java)
 
-堆栈&队列
-20. 有效的括号
+## 堆栈&队列
+
+[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+[代码](src/com/gujie1996/linkedlist/ValidParentheses.java)
 225. 用队列实现栈
 232. 用栈实现队列
 
