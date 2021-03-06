@@ -14,8 +14,11 @@
 ## 堆栈&队列
 
 [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
-[代码](src/com/gujie1996/linkedlist/ValidParentheses.java)
-225. 用队列实现栈
+[代码](src/com/gujie1996/stack/ValidParentheses.java)
+
+[225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
+[代码](src/com/gujie1996/stack/ImplementStackUsingQueues.java)
+
 232. 用栈实现队列
 
 优先队列
