@@ -19,7 +19,8 @@
 [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)
 [代码](src/com/gujie1996/stack/ImplementStackUsingQueues.java)
 
-232. 用栈实现队列
+[232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+[代码](src/com/gujie1996/stack/ImplementQueueUsingStacks.java)
 
 优先队列
 703. 数据流中的第 K 大元素
