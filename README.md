@@ -22,8 +22,8 @@
 [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 [代码](src/com/gujie1996/stack/ImplementQueueUsingStacks.java)
 
-优先队列
-703. 数据流中的第 K 大元素
+## 优先队列
+[703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
 239. 滑动窗口最大值
 
 哈希表
