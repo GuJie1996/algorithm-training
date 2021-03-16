@@ -22,7 +22,7 @@ public class ValidParentheses {
         for (Character c : s.toCharArray()) {
             Character mapChar = map.get(c);
             if (mapChar == null) {
-                Character topChar = stack.push(c);
+                stack.push(c);
             } else if (stack.size() == 0 || !mapChar.equals(stack.pop())) {
                 // 栈为空或者匹配不上左括号
                 return false;

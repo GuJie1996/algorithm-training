@@ -19,27 +19,26 @@ public class ImplementStackUsingQueues {
 
     static class MyStack {
 
-        Queue<Integer>[] queues = new Queue[2];
-        int existsQueue = 0;
-        int emptyQueue = 1;
+        Queue<Integer> existsQueue;
+        Queue<Integer> emptyQueue;
 
         /** Initialize your data structure here. */
         public MyStack() {
-            queues[existsQueue] = new LinkedList<>();
-            queues[emptyQueue] = new LinkedList<>();
+            existsQueue = new LinkedList<>();
+            emptyQueue = new LinkedList<>();
         }
 
         /** Push element x onto stack. */
         public void push(int x) {
-            queues[existsQueue].offer(x);
+            existsQueue.offer(x);
         }
 
         /** Removes the element on top of the stack and returns that element. */
         public int pop() {
-            Integer lastOne = queues[existsQueue].poll();
-            while (queues[existsQueue].peek() != null) {
-                queues[emptyQueue].offer(lastOne);
-                lastOne = queues[existsQueue].poll();
+            Integer lastOne = existsQueue.poll();
+            while (existsQueue.peek() != null) {
+                emptyQueue.offer(lastOne);
+                lastOne = existsQueue.poll();
             }
             swapQueue();
             return lastOne;
@@ -48,9 +47,9 @@ public class ImplementStackUsingQueues {
         /** Get the top element. */
         public int top() {
             Integer lastOne = null;
-            while (queues[existsQueue].peek() != null) {
-                lastOne = queues[existsQueue].poll();
-                queues[emptyQueue].offer(lastOne);
+            while (existsQueue.peek() != null) {
+                lastOne = existsQueue.poll();
+                emptyQueue.offer(lastOne);
             }
             swapQueue();
             return lastOne;
@@ -58,11 +57,11 @@ public class ImplementStackUsingQueues {
 
         /** Returns whether the stack is empty. */
         public boolean empty() {
-            return queues[existsQueue].isEmpty();
+            return existsQueue.isEmpty();
         }
 
         void swapQueue() {
-            int temp = existsQueue;
+            Queue<Integer> temp = existsQueue;
             existsQueue = emptyQueue;
             emptyQueue = temp;
         }
