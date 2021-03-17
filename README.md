@@ -29,8 +29,9 @@
 [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 [代码](src/com/gujie1996/queue/SlidingWindowMaximum.java)
 
-哈希表
-242. 有效的字母异位词
+## 哈希表
+[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+[代码](src/com/gujie1996/hash/ValidAnagram.java)
 1. 两数之和
 15. 三数之和
 
