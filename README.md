@@ -32,7 +32,10 @@
 ## 哈希表
 [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 [代码](src/com/gujie1996/hash/ValidAnagram.java)
-1. 两数之和
+
+[1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+[代码](src/com/gujie1996/hash/TwoSum.java)
+
 15. 三数之和
 
 树&二叉树&二叉搜索树
