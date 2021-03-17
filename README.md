@@ -36,7 +36,8 @@
 [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 [代码](src/com/gujie1996/hash/TwoSum.java)
 
-15. 三数之和
+[15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+[代码](src/com/gujie1996/hash/ThreeSum.java)
 
 树&二叉树&二叉搜索树
 验证二叉搜索树
