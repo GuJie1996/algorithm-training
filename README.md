@@ -49,8 +49,10 @@
 [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 [代码](src/com/gujie1996/tree/LowestCommonAncestorOfSearch.java)
 
-递归分治
-50. Pow(x, n)
+## 递归分治
+[50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+[代码](src/com/gujie1996/recursion/PowXN.java)
+
 169. 多数元素
 
 贪心算法
