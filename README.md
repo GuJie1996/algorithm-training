@@ -46,7 +46,8 @@
 [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 [代码](src/com/gujie1996/tree/LowestCommonAncestor.java)
 
-二叉搜索树的最近公共祖先
+[235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+[代码](src/com/gujie1996/tree/LowestCommonAncestorOfSearch.java)
 
 递归分治
 50. Pow(x, n)
