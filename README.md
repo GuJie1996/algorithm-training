@@ -39,8 +39,10 @@
 [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
 [代码](src/com/gujie1996/hash/ThreeSum.java)
 
-树&二叉树&二叉搜索树
-验证二叉搜索树
+## 树&二叉树&二叉搜索树
+[98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+[代码](src/com/gujie1996/tree/ValidateBinarySearchTree.java)
+
 二叉树的最近公共祖先
 二叉搜索树的最近公共祖先
 
