@@ -43,7 +43,9 @@
 [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 [代码](src/com/gujie1996/tree/ValidateBinarySearchTree.java)
 
-二叉树的最近公共祖先
+[236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+[代码](src/com/gujie1996/tree/LowestCommonAncestor.java)
+
 二叉搜索树的最近公共祖先
 
 递归分治
