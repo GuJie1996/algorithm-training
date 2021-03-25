@@ -64,9 +64,13 @@
 [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 [代码](src/com/gujie1996/breadthfirstsearch/BinaryTreeLevelOrderTraversal.java)
 
-深度优先搜索
-104. 二叉树的最大深度
-111. 二叉树的最小深度
+## 深度优先搜索
+[104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+[代码](src/com/gujie1996/depthfirstsearch/MaximumDepthOfBinaryTree.java)
+
+[111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
+[代码](src/com/gujie1996/depthfirstsearch/MinimumDepthOfBinaryTree.java)
+
 22. 括号生成
 
 剪枝
