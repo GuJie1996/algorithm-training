@@ -71,7 +71,8 @@
 [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 [代码](src/com/gujie1996/depthfirstsearch/MinimumDepthOfBinaryTree.java)
 
-22. 括号生成
+[22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+[代码](src/com/gujie1996/depthfirstsearch/GenerateParentheses.java)
 
 剪枝
 51. N 皇后
