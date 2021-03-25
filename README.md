@@ -53,7 +53,8 @@
 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
 [代码](src/com/gujie1996/recursion/PowXN.java)
 
-169. 多数元素
+[169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+[代码](src/com/gujie1996/recursion/MajorityElement.java)
 
 贪心算法
 122. 买卖股票的最佳时机 II
