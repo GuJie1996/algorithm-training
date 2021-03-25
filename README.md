@@ -56,8 +56,9 @@
 [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 [代码](src/com/gujie1996/recursion/MajorityElement.java)
 
-贪心算法
-122. 买卖股票的最佳时机 II
+## 贪心算法
+[122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+[代码](src/com/gujie1996/greedy/BestTimeToBuyAndSellStockII.java)
 
 广度优先搜索
 深度优先搜索
