@@ -60,9 +60,11 @@
 [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [代码](src/com/gujie1996/greedy/BestTimeToBuyAndSellStockII.java)
 
-广度优先搜索
+## 广度优先搜索
+[102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+[代码](src/com/gujie1996/breadthfirstsearch/BinaryTreeLevelOrderTraversal.java)
+
 深度优先搜索
-102. 二叉树的层序遍历
 104. 二叉树的最大深度
 111. 二叉树的最小深度
 22. 括号生成
