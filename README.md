@@ -81,7 +81,9 @@
 [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)
 [代码](src/com/gujie1996/pruning/NQueensII.java)
 
-36. 有效的数独
+[36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
+[代码](src/com/gujie1996/pruning/ValidSudoku.java)
+
 37. 解数独
 
 二分查找
