@@ -74,8 +74,9 @@
 [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 [代码](src/com/gujie1996/depthfirstsearch/GenerateParentheses.java)
 
-剪枝
-51. N 皇后
+## 剪枝
+[51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
+[代码](src/com/gujie1996/pruning/NQueens.java)
 52. N皇后 II
 36. 有效的数独
 37. 解数独
