@@ -30,8 +30,8 @@ public class NQueens {
             return;
         }
         for (int i = 0; i < n; i++) {
-            Integer pieInt = row + i;
-            Integer naInt = row - i;
+            Integer pieInt = row - i;
+            Integer naInt = row + i;
             if (col.contains(i) || pie.contains(pieInt) || na.contains(naInt)) {
                 continue;
             }
