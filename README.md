@@ -84,7 +84,8 @@
 [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)
 [代码](src/com/gujie1996/pruning/ValidSudoku.java)
 
-37. 解数独
+[37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
+[代码](src/com/gujie1996/pruning/SudokuSolver.java)
 
 二分查找
 69. x 的平方根
