@@ -87,8 +87,9 @@
 [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)
 [代码](src/com/gujie1996/pruning/SudokuSolver.java)
 
-二分查找
-69. x 的平方根
+## 二分查找
+[69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+[代码](src/com/gujie1996/binarysearch/Sqrtx.java)
 
 字典树
 208. 实现 Trie (前缀树)
