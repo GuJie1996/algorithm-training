@@ -91,9 +91,12 @@
 [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 [代码](src/com/gujie1996/binarysearch/Sqrtx.java)
 
-字典树
-208. 实现 Trie (前缀树)
-212. 单词搜索 II
+## 字典树
+[208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+[代码](src/com/gujie1996/trie/Trie.java)
+
+[212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
+[代码](src/com/gujie1996/trie/WordSearchII.java)
 
 位运算
 191. 位1的个数
