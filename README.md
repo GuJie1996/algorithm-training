@@ -98,10 +98,15 @@
 [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 [代码](src/com/gujie1996/trie/WordSearchII.java)
 
-位运算
-191. 位1的个数
-231. 2的幂
-338. 比特位计数
+## 位运算
+[191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+[代码](src/com/gujie1996/bitoperation/NumberOf1Bits.java)
+
+[231. 2的幂](https://leetcode-cn.com/problems/power-of-two/)
+[代码](src/com/gujie1996/bitoperation/PowerOfTwo.java)
+
+[338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
+[代码](src/com/gujie1996/bitoperation/CountingBits.java)
 
 动态规划
 70. 爬楼梯
