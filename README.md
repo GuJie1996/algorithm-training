@@ -115,8 +115,8 @@
 [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 [代码](src/com/gujie1996/dp/Triangle.java)
 
-[152. 乘积最大子数组]()
-[代码]()
+[152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+[代码](src/com/gujie1996/dp/MaximumProductSubarray.java)
 
 [188. 买卖股票的最佳时机 IV]()
 [代码]()
