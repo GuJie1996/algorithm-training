@@ -108,8 +108,10 @@
 [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)
 [代码](src/com/gujie1996/bitoperation/CountingBits.java)
 
-动态规划
-70. 爬楼梯
+## 动态规划
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+[代码](src/com/gujie1996/dp/ClimbingStairs.java)
+
 120. 三角形最小路径和
 152. 乘积最大子数组
 188. 买卖股票的最佳时机 IV
