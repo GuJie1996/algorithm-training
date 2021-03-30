@@ -127,8 +127,8 @@
 [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
 [代码](src/com/gujie1996/dp/CoinChange.java)
 
-[72. 编辑距离]()
-[代码]()
+[72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)
+[代码](src/com/gujie1996/dp/EditDistance.java)
 
 ## 并查集
 [200. 岛屿数量]()
