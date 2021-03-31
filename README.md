@@ -131,8 +131,8 @@
 [代码](src/com/gujie1996/dp/EditDistance.java)
 
 ## 并查集
-[200. 岛屿数量]()
-[代码]()
+[200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+[代码](src/com/gujie1996/unionfind/NumberOfIslands.java)
 
 [547. 省份数量]()
 [代码]()
