@@ -138,7 +138,7 @@
 [代码](src/com/gujie1996/unionfind/NumberOfProvinces.java)
 
 ## LRU Cache
-[146. LRU 缓存机制]()
-[代码]()
+[146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+[代码](src/com/gujie1996/lru/LRUCache.java)
 
 ## 布隆过滤器
