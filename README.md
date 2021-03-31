@@ -134,8 +134,8 @@
 [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 [代码](src/com/gujie1996/unionfind/NumberOfIslands.java)
 
-[547. 省份数量]()
-[代码]()
+[547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/)
+[代码](src/com/gujie1996/unionfind/NumberOfProvinces.java)
 
 ## LRU Cache
 [146. LRU 缓存机制]()
